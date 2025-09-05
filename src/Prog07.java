@@ -11,7 +11,7 @@ public class Prog07 {
 	    //Variaveis
 	    double raio, geratriz, area;
 	
-	    System.out.println("---8====D---------------------------------------------------------------------------------");
+	    System.out.println("-------------------------------------------------------------------------------------");
 	    System.out.println("Prog07 - Area de um Cone");
 	    System.out.println("-------------------------------------------------------------------------------------");
 	    
@@ -35,3 +35,4 @@ public class Prog07 {
 	}// fim do main
 
 }
+

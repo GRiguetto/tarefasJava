@@ -28,7 +28,7 @@ public class Prog14 {
 	    System.out.printf("\nSalario Bruto: R$ %.2f", salarioBruto);
 	    System.out.printf("\nDesconto......: R$ %.2f", desconto);
 	    System.out.printf("\nSalario Liquido: R$ %.2f", salarioLiquido);
-	    System.out.printf("\n--------------8====D----------");
+	    System.out.printf("\n------------------------------");
 	    
 	   
 	    leitor.close();
@@ -39,3 +39,4 @@ public class Prog14 {
 	}// fim do main
 
 }// fim do programa
+
